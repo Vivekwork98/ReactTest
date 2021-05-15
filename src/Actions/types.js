@@ -1,0 +1,2 @@
+export const RETRIEVE_MOVIES = "RETRIEVE_MOVIES";
+export const RETRIEVE_MOVIE = "RETRIEVE_MOVIE";
